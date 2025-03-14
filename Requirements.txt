@@ -1,0 +1,81 @@
+# Jarvis AI Assistant - Requirements
+
+## 🎯 Overview
+This is a smart, voice-controlled assistant inspired by Iron Man's J.A.R.V.I.S. It supports file search, system control, voice commands, app control, reminders, memory, mood detection, music control, coding assistance, and file organization — all in one powerful Python project!
+
+---
+
+## 🛠️ Prerequisites
+Ensure you have **Python 3.10 or later** installed. If not, download it from [here](https://www.python.org/downloads/).
+
+---
+
+## 🔧 Step-by-Step Setup Guide
+
+### 1️⃣ Create a Virtual Environment (Optional but Recommended)
+```bash
+python -m venv jarvis_env
+```
+Activate the environment:
+- **Windows:** `jarvis_env\Scripts\activate`
+- **Linux/Mac:** `source jarvis_env/bin/activate`
+
+---
+
+### 2️⃣ Essential Python Libraries (Install via pip)
+Copy-paste the following command to install all required packages:
+```bash
+pip install -r requirements.txt
+```
+
+Alternatively, you can install packages one by one:
+
+```bash
+pip install g4f
+pip install SpeechRecognition
+pip install pyttsx3
+pip install psutil
+pip install textblob
+pip install schedule
+pip install pydub
+pip install pygame
+```
+
+If `dlib` or `face_recognition` fails, try this:
+```bash
+pip install cmake
+pip install dlib
+pip install face_recognition
+```
+
+---
+
+### 3️⃣ Additional Tools
+For full functionality:
+- Install **ffmpeg** (needed for `pydub`) from [here](https://ffmpeg.org/download.html).
+- Ensure your microphone and speakers are working.
+
+---
+
+### 4️⃣ Run Jarvis
+After installation, run the assistant with:
+```bash
+python jarvis.py
+```
+
+---
+
+## 🔥 Troubleshooting
+- If any module fails to install, ensure `pip` is up to date:
+  ```bash
+  python -m pip install --upgrade pip
+  ```
+- For missing module errors, rerun the install commands.
+
+---
+
+## ⭐ Future Add-ons
+Stay tuned for more features like facial recognition, web scraping, smart home integration, and custom voice models!
+
+Happy building! 🚀
+

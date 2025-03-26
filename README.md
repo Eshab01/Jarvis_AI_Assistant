@@ -20,7 +20,7 @@ Your own voice-controlled, AI-powered assistant inspired by Iron Man's J.A.R.V.I
 
 1️⃣ **Clone this repo:**
 ```bash
-   git clone https://github.com/your-username/Jarvis-Assistant.git
+   git clone https://github.com/Eshab01/Jarvis-Assistant.git
    cd Jarvis-Assistant
 ```
 

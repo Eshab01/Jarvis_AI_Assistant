@@ -1,7 +1,6 @@
 # 🤖 Jarvis AI Assistant
 
-Your own voice-controlled, AI-powered assistant inspired by Iron Man's J.A.R.V.I.S. — now open-source for further improvements! 
-I'll be grateful for further contacts.
+Your own voice-controlled, AI-powered assistant inspired by Iron Man's J.A.R.V.I.S. — now open-source for further improvements!
 
 ## 🚀 Features
 

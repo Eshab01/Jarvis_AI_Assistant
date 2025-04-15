@@ -8,7 +8,7 @@ import datetime
 import json
 from textblob import TextBlob
 
-# Set up voice engine
+# Set up voice enginee
 engine = pyttsx3.init()
 engine.say("Jarvis is online!")
 engine.runAndWait()

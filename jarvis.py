@@ -43,7 +43,7 @@ def listen_command():
 
 # Custom responses
 custom_responses = {
-    "who are you ": "I am Jarvis, your virtual assistant",
+    "who are you ": "I am Jarvis, your virtual assistant!",
     "what can you do": "I can open apps, answer questions, and more!",
     "who made you": "I was created by Eshab Sachan!",
     "what's the weather like": "I'm not a weather bot, but I can find out if you want!",

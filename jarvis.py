@@ -115,7 +115,7 @@ def organize_files(directory):
 
 # Handle commands
 def handle_command(command):
-    if "open youtube" in command:
+    if "open youtubee" in command:
         webbrowser.open("https://www.youtube.com")
         return "YouTube is now open!"
 
